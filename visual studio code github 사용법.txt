@@ -1,0 +1,5 @@
+git에 로컬에 저장된 파일 push 하기
+1. git remote add origin repository(깃주소)
+
+2. git push --set-upstream origin master (master권한으로 push)
+

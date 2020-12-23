@@ -1,0 +1,13 @@
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\bin\Debug\netcoreapp3.1\PriorityQue.exe
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\bin\Debug\netcoreapp3.1\PriorityQue.deps.json
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\bin\Debug\netcoreapp3.1\PriorityQue.runtimeconfig.json
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\bin\Debug\netcoreapp3.1\PriorityQue.runtimeconfig.dev.json
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\bin\Debug\netcoreapp3.1\PriorityQue.dll
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\bin\Debug\netcoreapp3.1\PriorityQue.pdb
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\obj\Debug\netcoreapp3.1\PriorityQue.csprojAssemblyReference.cache
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\obj\Debug\netcoreapp3.1\PriorityQue.AssemblyInfoInputs.cache
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\obj\Debug\netcoreapp3.1\PriorityQue.AssemblyInfo.cs
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\obj\Debug\netcoreapp3.1\PriorityQue.csproj.CoreCompileInputs.cache
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\obj\Debug\netcoreapp3.1\PriorityQue.dll
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\obj\Debug\netcoreapp3.1\PriorityQue.pdb
+C:\Users\zesinc\Desktop\Algorithm\Algorithm\PriorityQue\obj\Debug\netcoreapp3.1\PriorityQue.genruntimeconfig.cache
